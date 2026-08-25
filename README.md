@@ -70,7 +70,7 @@ The platform is modular, with data flowing through a structured 10-phase pipelin
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/email-security-analysis-lab.git](https://github.com/YourUsername/email-security-analysis-lab.git)
+git clone (https://github.com/abett07/email-threat-platform.git)
 cd email-security-analysis-lab
 
 Set up the virtual environment & dependencies:
