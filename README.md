@@ -15,13 +15,13 @@ The platform simulates an enterprise Email Security Gateway (like Proofpoint or 
 *(A custom Streamlit UI built to serve as the SOC Analyst investigation interface)*
 
 ### Executive Threat Landscape
-![Executive Dashboard](screenshots/Screenshot_2026-08-24_05-18-28.png)
+![Executive Dashboard](/Screenshot_2026-08-24_05-18-28.png)
 
 ### Investigation Search & Heuristic Breakdown
-![Investigation Search](screenshots/Screenshot_2026-08-24_05-18-00.png)
+![Investigation Search](/Screenshot_2026-08-24_05-18-00.png)
 
 ### Threat Campaign Correlation
-![Campaign Explorer](screenshots/Screenshot_2026-08-24_05-16-36.png)
+![Campaign Explorer](/Screenshot_2026-08-24_05-16-36.png)
 
 ---
 
