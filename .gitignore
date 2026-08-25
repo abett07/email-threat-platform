@@ -1,0 +1,6 @@
+raw/
+extracted/attachments/
+db/email_hygiene.db
+venv/
+__pycache__/
+*.pyc

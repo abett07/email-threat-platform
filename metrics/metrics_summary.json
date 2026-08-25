@@ -1,0 +1,36 @@
+{
+    "total_processed": 8609,
+    "classifications": {
+        "BENIGN": 5557,
+        "LOW_RISK": 1874,
+        "MALICIOUS": 73,
+        "MALWARE": 1,
+        "PHISHING": 224,
+        "POTENTIAL_BEC": 21,
+        "SUSPICIOUS": 859
+    },
+    "dmarc_failures": 674,
+    "spf_failures": 1245,
+    "top_malicious_domains": [
+        {
+            "domain": "newsletter.otto.de",
+            "count": 19
+        },
+        {
+            "domain": "dailywinner.click",
+            "count": 3
+        },
+        {
+            "domain": "ebuyer.com",
+            "count": 3
+        },
+        {
+            "domain": "mini-presents.com",
+            "count": 3
+        },
+        {
+            "domain": "stegen20.onmicrosoft.com",
+            "count": 3
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+2026-08-24 05:06:18,087 - INFO - Starting Phase 5: Heuristic Engine...
+2026-08-24 05:06:18,119 - INFO - Found 8609 emails for heuristic analysis.
+2026-08-24 05:06:18,151 - INFO - Analyzed 1000/8609 emails. Detections so far: 965
+2026-08-24 05:06:18,190 - INFO - Analyzed 2000/8609 emails. Detections so far: 1983
+2026-08-24 05:06:18,224 - INFO - Analyzed 3000/8609 emails. Detections so far: 2938
+2026-08-24 05:06:18,260 - INFO - Analyzed 4000/8609 emails. Detections so far: 3938
+2026-08-24 05:06:18,293 - INFO - Analyzed 5000/8609 emails. Detections so far: 4869
+2026-08-24 05:06:18,324 - INFO - Analyzed 6000/8609 emails. Detections so far: 5856
+2026-08-24 05:06:18,356 - INFO - Analyzed 7000/8609 emails. Detections so far: 6807
+2026-08-24 05:06:18,389 - INFO - Analyzed 8000/8609 emails. Detections so far: 7796
+2026-08-24 05:06:18,409 - INFO - --- PHASE 5 COMPLETE: Analyzed 8609 emails. Total Heuristic Detections: 8398 ---

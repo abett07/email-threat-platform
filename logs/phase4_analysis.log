@@ -1,0 +1,13 @@
+2026-08-24 04:52:59,850 - INFO - Starting Phase 4: Static File Analysis...
+2026-08-24 04:52:59,916 - INFO - Found 1731 attachments pending static analysis.
+2026-08-24 05:02:47,003 - INFO - Starting Phase 4: Static File Analysis...
+2026-08-24 05:02:47,014 - INFO - Found 1731 attachments pending static analysis.
+2026-08-24 05:02:47,020 - INFO - Running bulk ClamAV scan on 1731 files. This will take a moment to load signatures...
+2026-08-24 05:03:14,516 - INFO - Analyzed 250/1731 attachments. Detections so far: 2
+2026-08-24 05:03:14,572 - INFO - Analyzed 500/1731 attachments. Detections so far: 11
+2026-08-24 05:03:14,613 - INFO - Analyzed 750/1731 attachments. Detections so far: 15
+2026-08-24 05:03:14,657 - INFO - Analyzed 1000/1731 attachments. Detections so far: 20
+2026-08-24 05:03:14,696 - INFO - Analyzed 1250/1731 attachments. Detections so far: 21
+2026-08-24 05:03:14,708 - ERROR - Analysis failed on attachment 1377: Failed to open file /home/abett/email-lab/extracted/attachments/6870_reviewdocument_txtid_3545767__.RTF is RTF, which cannot contain VBA Macros. Please use rtfobj to analyse it.
+2026-08-24 05:03:14,729 - INFO - Analyzed 1500/1731 attachments. Detections so far: 24
+2026-08-24 05:03:14,757 - INFO - --- PHASE 4 COMPLETE: Analyzed 1730 attachments. Total Detections: 28 ---

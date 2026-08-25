@@ -1,0 +1,38 @@
+=== TOP THREAT CAMPAIGNS DETECTED ===
+Criteria: 3+ malicious/phishing emails from the same domain.
+
+Campaign Domain : newsletter[.]otto[.]de
+Message Volume  : 19
+Average Risk    : 78.2
+Classifications : PHISHING,MALICIOUS
+----------------------------------------
+Campaign Domain : dailywinner[.]click
+Message Volume  : 3
+Average Risk    : 85.0
+Classifications : MALICIOUS
+----------------------------------------
+Campaign Domain : ebuyer[.]com
+Message Volume  : 3
+Average Risk    : 60.0
+Classifications : PHISHING
+----------------------------------------
+Campaign Domain : mini-presents[.]com
+Message Volume  : 3
+Average Risk    : 60.0
+Classifications : PHISHING
+----------------------------------------
+Campaign Domain : stegen20[.]onmicrosoft[.]com
+Message Volume  : 3
+Average Risk    : 131.7
+Classifications : MALICIOUS,PHISHING
+----------------------------------------
+Campaign Domain : telekom[.]com
+Message Volume  : 3
+Average Risk    : 75.0
+Classifications : PHISHING
+----------------------------------------
+Campaign Domain : vargas[.]tchalala[.]shop
+Message Volume  : 3
+Average Risk    : 120.0
+Classifications : MALICIOUS
+----------------------------------------
